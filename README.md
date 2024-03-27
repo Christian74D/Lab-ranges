@@ -1,2 +1,25 @@
-# Lab-ranges
-Clinical Lab Test Ranges Calculator: Database entry and local and global lab ranges calculator system. Data extraction from clinical test result documents using OCR and LLM models for tabulation of records. Implementation using Firebase API and Gradio UI in Python.
+List of Files
+app.py
+db_manager.py
+helper_functions.py
+range.calculator.py
+keys.py
+README.md
+<firebase.json>
+
+
+
+
+Dependencies 
+PIL
+pdf2image
+pytesseract
+pandas
+seaborn
+matplotlib.pyplot
+firebase_admin
+gradio
+Pathlib
+openai
+
+
