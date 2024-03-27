@@ -1,3 +1,6 @@
+Refer Redifining Precision.docx for detailed documentation
+
+
 List of Files
 app.py
 db_manager.py
